@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/compuserv%20plus/Desktop/WLOPS-TP/mlruns/948289794295568826/models/m-02e19482d0a9454c8b07b9cda7499e95/artifacts
+creation_timestamp: 1764941112262
+experiment_id: '948289794295568826'
+last_updated_timestamp: 1764941121122
+model_id: m-02e19482d0a9454c8b07b9cda7499e95
+model_type: null
+name: model
+source_run_id: b57969c9e2674ff09eed59f1c6713ac7
+status: 2
+status_message: null
